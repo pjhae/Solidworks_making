@@ -10,7 +10,7 @@
 ## 2. NOUTE_project
 ### - Easily detachable badge for commercial string
 ### - Co-work with NOUTE-startup
-![image](https://user-images.githubusercontent.com/74540268/169975192-6ed1fd21-f9fe-40ae-b20a-813870aa2317.png)
+![image](https://user-images.githubusercontent.com/74540268/169978490-d1329e81-1696-4c85-a63a-1fee7f138a4b.png)
 
 ![noute_ani](https://user-images.githubusercontent.com/74540268/169978295-0700ac23-2b37-4637-8d36-725c7ffc0819.gif)
 
