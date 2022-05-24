@@ -10,9 +10,7 @@
 ## 2. NOUTE_project
 ### - Easily detachable badge for commercial string
 ### - Co-work with NOUTE-startup
-![image](https://user-images.githubusercontent.com/74540268/169975192-6ed1fd21-f9fe-40ae-b20a-813870aa2317.png)
-![noute_ani](https://user-images.githubusercontent.com/74540268/169976220-61b2d23e-4b93-4c36-9e40-1b66d3263a72.gif)
-
+![image](https://user-images.githubusercontent.com/74540268/169975192-6ed1fd21-f9fe-40ae-b20a-813870aa2317.png) ![noute_ani](https://user-images.githubusercontent.com/74540268/169978080-97252ed2-6d1d-438f-8d1d-6023a008da03.gif
 
 
 ## 3. Universal Refrigerator
