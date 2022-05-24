@@ -17,5 +17,5 @@
 
 ## 3. Universal Refrigerator
 ### - Universal refrigerator storage system for the visually impaired
-### - 2020 : Social Contribution PLUS+ contest winner
+### - 2020 : SNU Social Contribution PLUS+ contest winner
 ![image](https://user-images.githubusercontent.com/74540268/169968702-6ea9f29f-1507-4a10-8413-0baa380fa894.png)
