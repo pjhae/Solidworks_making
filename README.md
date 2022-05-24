@@ -12,7 +12,7 @@
 ### - Co-work with NOUTE-startup
 
 ![image](https://user-images.githubusercontent.com/74540268/169968646-02b198f7-8226-487e-bc1f-3384b0a5df37.png)
-![noute](https://user-images.githubusercontent.com/74540268/169972709-d538a6ab-192c-466f-8c31-c3bb0ff57dc6.gif)
+![noute1](https://user-images.githubusercontent.com/74540268/169972979-b0f16584-8961-4f20-b9f3-821c0aa4960a.gif)
 
 
 
