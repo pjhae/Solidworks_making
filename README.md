@@ -10,7 +10,7 @@
 
 ## 2. NOUTE_project
 ### - Easily detachable badge for commercial string
-### - Co-work with NOUTE-startup (currently, company changed its name to WEbudding [site](https://www.webudding.com/home) ) 
+### - Co-work with NOUTE-startup (company has changed its name to WEbudding [site](https://www.webudding.com/home) ) 
 ![image](https://user-images.githubusercontent.com/74540268/169978837-1526e973-bbee-447e-965b-0ffb6ca7b1ce.png) ![noute_ani](https://user-images.githubusercontent.com/74540268/169978295-0700ac23-2b37-4637-8d36-725c7ffc0819.gif)
 
 - - -
